@@ -1,0 +1,7 @@
+name: AdminMenu
+main: com.vicks.adminmenu.Main
+version: 1.0
+commands:
+    adminmenu:
+      description: Open the admin menu
+      usage: /<command>
